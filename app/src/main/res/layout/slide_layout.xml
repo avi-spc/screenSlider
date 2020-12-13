@@ -18,10 +18,11 @@
         android:layout_below="@+id/sliderImage"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
+        android:fontFamily="poppins"
         android:text="Lorem"
         android:textAlignment="center"
-        android:textSize="24sp"
-        android:textColor="@color/White"/>
+        android:textColor="@color/White"
+        android:textSize="24sp" />
 
     <TextView
         android:id="@+id/sliderDesc"
